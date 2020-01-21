@@ -3,7 +3,6 @@
 // found in the LICENSE file.
 
 import {NativeModules} from 'react-native'
-import RNFetchBlob from '../index.js'
 import XMLHttpRequestEventTarget from './XMLHttpRequestEventTarget.js'
 import Log from '../utils/log.js'
 import Blob from './Blob.js'
